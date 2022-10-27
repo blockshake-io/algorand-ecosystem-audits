@@ -37,7 +37,14 @@ create a pull request. Too much work? Feel free to drop an email to
 
 ## Defly
 
-- https://4236327423-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Ffh76vAP0mxS5OTGmmuCv%2Fuploads%2FnQRgjNdAKaQZuMpRfWoI%2FDefly-SCR-2022-ExecSummary-v2.1.pdf?alt=media&token=03e42baf-0b68-42a8-a5a8-b004a1b4e06b
+- Wallet
+  - https://4236327423-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Ffh76vAP0mxS5OTGmmuCv%2Fuploads%2FnQRgjNdAKaQZuMpRfWoI%2FDefly-SCR-2022-ExecSummary-v2.1.pdf?alt=media&token=03e42baf-0b68-42a8-a5a8-b004a1b4e06b
+
+
+## Humble:
+
+- DEX
+  - https://www.dropbox.com/sh/p95hbna2ked2e4g/AAB3peuMjRdtQQS3mVAiHWkfa?dl=0&preview=Reach+-+Security+Review+for+HumbleSwap+Smart+Contract+v1.0.pdf
 
 
 ## Pact
