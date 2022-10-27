@@ -3,6 +3,21 @@
 This is an incomplete but growing collection of audit reports in the Algorand
 ecosystem.
 
+### Why collect all these audit reports?
+
+This collection is collected for builders by builders and it is intended for
+everyone who wants to learn from past audits to improve their own projects.
+
+
+### How to contribute?
+
+First, thank you for helping! Clone this repository, add a project / audit
+report in this `README.md` file (the projects are ordered alphabetically), and
+create a pull request. Too much work? Feel free to drop an email to
+`kevin[at]blockshake[dot]io` and we will add the report for you.
+
+-------------------------------------------------------------------------------
+
 
 ## Defly
 
