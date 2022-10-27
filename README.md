@@ -21,21 +21,17 @@ create a pull request. Too much work? Feel free to drop an email to
 
 ## Algofi
 
-### Lending Protocol V2
-- https://github.com/runtimeverification/publications/blob/bcdc507b9bfc36f7f6df447898505a98b84c6143/reports/smart-contracts/algofi-v2-audit-report.pdf
-
-### Lending Protocol V1
-- https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Algofi.pdf
-
-### DEX
-- https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Algofi-dex-nanoswap.pdf
-- https://github.com/Algofiorg/algofi-audits/blob/main/NCC_Group_Algofi_AMM_Nanoswap_March_2022.pdf
-
-### Vault
-- https://github.com/coinspect/publications/blob/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Algofi%20Algo%20Vault.pdf
-
-### Governance
-- https://github.com/Algofiorg/algofi-audits/blob/main/Certik_Algofi_Governance_September_2022.pdf
+- Lending Protocol V2
+  - https://github.com/runtimeverification/publications/blob/bcdc507b9bfc36f7f6df447898505a98b84c6143/reports/smart-contracts/algofi-v2-audit-report.pdf
+- Lending Protocol V1
+  - https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Algofi.pdf
+- DEX
+  - https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Algofi-dex-nanoswap.pdf
+  - https://github.com/Algofiorg/algofi-audits/blob/main/NCC_Group_Algofi_AMM_Nanoswap_March_2022.pdf
+- Vault
+  - https://github.com/coinspect/publications/blob/master/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Algofi%20Algo%20Vault.pdf
+- Governance
+  - https://github.com/Algofiorg/algofi-audits/blob/main/Certik_Algofi_Governance_September_2022.pdf
 
 
 
@@ -47,9 +43,8 @@ create a pull request. Too much work? Feel free to drop an email to
 
 ## Tinyman
 
-### V1.0
-- https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Tinyman.pdf
-
-### V1.1
-- https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Tinyman-security-review.pdf
-- https://github.com/coinspect/publications/blob/master/Coinspect%20-%20Smart%20Contract%20Update%20Review%20-%20Tinyman%20v220107.pdf
+- V1.0
+  - https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Tinyman.pdf
+- V1.1
+  - https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Tinyman-security-review.pdf
+  - https://github.com/coinspect/publications/blob/master/Coinspect%20-%20Smart%20Contract%20Update%20Review%20-%20Tinyman%20v220107.pdf
