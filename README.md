@@ -70,6 +70,9 @@ create a pull request. Too much work? Feel free to drop an email to
   - https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Pact_Fi_Router.pdf
 
 
+## Silo
+- https://github.com/headline-design/silo-protocol/blob/main/smartContract_audits/Final%20-%20Silo%20Defi%20Smart%20Contract%20Audit%20Report.pdf
+
 ## Tinyman
 
 - V1.0
