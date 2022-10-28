@@ -41,6 +41,18 @@ create a pull request. Too much work? Feel free to drop an email to
   - https://4236327423-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Ffh76vAP0mxS5OTGmmuCv%2Fuploads%2FnQRgjNdAKaQZuMpRfWoI%2FDefly-SCR-2022-ExecSummary-v2.1.pdf?alt=media&token=03e42baf-0b68-42a8-a5a8-b004a1b4e06b
 
 
+## Folks Finance
+- Lending Borrowing
+  - https://github.com/Folks-Finance/audits/blob/main/Runtime%20Verification%20-%20Smart%20Contract%20Audit%20-%20February%202022.pdf
+  - https://github.com/Folks-Finance/audits/blob/main/Vantage%20Point%20-%20Smart%20Contract%20Audit%20-%20February%202022.pdf
+  - https://github.com/Folks-Finance/audits/blob/main/Coinspect%20-%20Smart%20Contract%20Audit%20-%20March%202022.pdf
+- LP
+  - https://github.com/Folks-Finance/audits/blob/main/Vantage%20Point%20-%20Revision%20Audit%20of%20Token%20Pair%20and%20Oracle%20Adapter%20-%20May%202022.pdf
+- ALGO Liquid Gov
+  - https://github.com/Folks-Finance/audits/blob/main/Vantage%20Point%20-%20Revision%20Audit%20of%20Liquid%20Governance%20V2%20-%20June%202022.pdf
+  - https://github.com/Folks-Finance/audits/blob/main/Vantage%20Point%20-%20Revision%20Audit%20of%20Liquid%20Governance%20V3%20-%20September%202022.pdf
+
+
 ## Humble:
 
 - DEX
