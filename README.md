@@ -53,6 +53,12 @@ create a pull request. Too much work? Feel free to drop an email to
   - https://github.com/Folks-Finance/audits/blob/main/Vantage%20Point%20-%20Revision%20Audit%20of%20Liquid%20Governance%20V3%20-%20September%202022.pdf
 
 
+## GARD
+- Overcollateralized Borrowing / Stablecoin / Governance
+  - https://www.algogard.com/audits/GARD-March-2022-Coinspect-Audit.pdf
+  - https://www.algogard.com/audits/GARD-March-2022-Vantage-Point-Audit.pdf
+
+
 ## Humble:
 
 - DEX
