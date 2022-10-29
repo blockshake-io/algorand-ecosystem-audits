@@ -34,6 +34,17 @@ create a pull request. Too much work? Feel free to drop an email to
   - https://github.com/Algofiorg/algofi-audits/blob/main/Certik_Algofi_Governance_September_2022.pdf
 
 
+## AlgoFund
+
+- Launchpad
+  - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-AlgoFund-v9.pdf
+
+
+## Cometa
+
+- Yield Farming
+  - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-Cometa---Audit-1-v4.pdf
+
 
 ## Defly
 
@@ -59,10 +70,24 @@ create a pull request. Too much work? Feel free to drop an email to
   - https://www.algogard.com/audits/GARD-March-2022-Vantage-Point-Audit.pdf
 
 
+## Glitter Finance
+- Bridge
+  - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-Glitter-Finance-(Algorand)-v17.pdf
+  - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-Glitter-Finance-(Algorand)-Addendum-v17.pdf
+
+
 ## Humble:
 
 - DEX
   - https://www.dropbox.com/sh/p95hbna2ked2e4g/AAB3peuMjRdtQQS3mVAiHWkfa?dl=0&preview=Reach+-+Security+Review+for+HumbleSwap+Smart+Contract+v1.0.pdf
+
+
+## Opulous
+
+- DeFi Loans
+  - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-Opulous-v10.pdf
+- Staking Pools
+  - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-Opulous---Staking-Pools-(Audit-2)-v10.pdf
 
 
 ## Pact
@@ -86,3 +111,9 @@ create a pull request. Too much work? Feel free to drop an email to
 - V1.1
   - https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Tinyman-security-review.pdf
   - https://github.com/coinspect/publications/blob/master/Coinspect%20-%20Smart%20Contract%20Update%20Review%20-%20Tinyman%20v220107.pdf
+
+
+# VerdeX
+
+- Launchpad
+  - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-VerdeX-Launchpad-v7.pdf
