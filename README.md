@@ -119,7 +119,7 @@ create a pull request. Too much work? Feel free to drop an email to
   - https://github.com/coinspect/publications/blob/master/Coinspect%20-%20Smart%20Contract%20Update%20Review%20-%20Tinyman%20v220107.pdf
 
 
-# VerdeX
+## VerdeX
 
 - Launchpad
   - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-VerdeX-Launchpad-v7.pdf
