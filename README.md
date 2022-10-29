@@ -34,16 +34,16 @@ create a pull request. Too much work? Feel free to drop an email to
   - https://github.com/Algofiorg/algofi-audits/blob/main/Certik_Algofi_Governance_September_2022.pdf
 
 
-## AlgoRai
-
-- Vault
-  - https://kudelskisecurity.com/wp-content/uploads/AlgoRai-Secure-Code-Review-Report-Public-Release.pdf
-
-
 ## AlgoFund
 
 - Launchpad
   - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-AlgoFund-v9.pdf
+
+
+## AlgoRai
+
+- Vault
+  - https://kudelskisecurity.com/wp-content/uploads/AlgoRai-Secure-Code-Review-Report-Public-Release.pdf
 
 
 ## Cometa
