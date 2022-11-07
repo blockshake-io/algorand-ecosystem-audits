@@ -55,7 +55,7 @@ create a pull request. Too much work? Feel free to drop an email to
 ## Defly
 
 - Wallet
-  - https://4236327423-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Ffh76vAP0mxS5OTGmmuCv%2Fuploads%2FnQRgjNdAKaQZuMpRfWoI%2FDefly-SCR-2022-ExecSummary-v2.1.pdf?alt=media&token=03e42baf-0b68-42a8-a5a8-b004a1b4e06b
+  - https://kudelskisecurity.com/wp-content/uploads/Defly-SCR-2022-ExecSummary-v2.1.pdf
 
 
 ## Folks Finance
