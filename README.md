@@ -52,6 +52,12 @@ create a pull request. Too much work? Feel free to drop an email to
   - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-Cometa---Audit-1-v4.pdf
 
 
+## Deflex
+
+- Order Routing and Limit Orders
+  - https://github.com/vantagepointreports/releases/blob/main/VPQ-20220418%20-%20Deflex%20-%20Smart%20Contract%20Audit%20of%20Deflex%20Protocol_Public_V1.1.pdf
+
+
 ## Defly
 
 - Wallet
