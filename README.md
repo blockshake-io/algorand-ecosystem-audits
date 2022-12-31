@@ -116,6 +116,7 @@ create a pull request. Too much work? Feel free to drop an email to
 ## Silo
 - https://github.com/headline-design/silo-protocol/blob/main/smartContract_audits/Final%20-%20Silo%20Defi%20Smart%20Contract%20Audit%20Report.pdf
 
+
 ## Tinyman
 
 - V1.0
@@ -131,3 +132,9 @@ create a pull request. Too much work? Feel free to drop an email to
 
 - Launchpad
   - https://certik-public-assets.s3.amazonaws.com/CertiK-Audit-for-VerdeX-Launchpad-v7.pdf
+
+
+## Vestige
+
+- Vault, Launchpad, Stake
+  - https://github.com/vestigefi/SmartContracts/blob/main/Vestige%20-%20Secure%20Code%20Review%20of%20VestigeSafe%2C%20TinyStake%2C%20%26%20TinyStart%20v1.1.pdf
